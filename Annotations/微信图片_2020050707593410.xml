@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>微信图片_2020050707593410.jpg</filename>
+	<path>C:\Users\HaYukima\Desktop\JPEGImages\微信图片_2020050707593410.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1513</xmin>
+			<ymin>1732</ymin>
+			<xmax>1673</xmax>
+			<ymax>1907</ymax>
+		</bndbox>
+	</object>
+</annotation>
